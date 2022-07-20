@@ -3,7 +3,7 @@ package reverse_test
 import (
 	"bufio"
 
-	"githu.com/wjxbelieve/rog-go/reverse"
+	"github.com/wjxbelieve/rog-go/reverse"
 
 	"reflect"
 	"strings"
